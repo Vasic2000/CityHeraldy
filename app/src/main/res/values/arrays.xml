@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Выберите город</item>
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Екатеринбург</item>
+        <item>Новосибирск</item>
+        <item>Самара</item>
+        <item>Мытищи</item>
+        <item>Поварово</item>
+        <item>Киров</item>
+        <item>Ростов</item>
+        <item>Кострома</item>
+        <item>Тула</item>
+        <item>Новомосковск</item>
+    </string-array>
+
+    <integer-array name="coatofarms_imgs">
+        <item>@drawable/blank</item><!-- герб Москвы -->
+        <item>@drawable/msc</item><!-- герб Москвы -->
+        <item>@drawable/spb</item><!-- герб Санкт-Петербурга -->
+        <item>@drawable/ebrg</item><!-- герб Екатеринбурга -->
+        <item>@drawable/nsk</item><!-- герб Новосибирска -->
+        <item>@drawable/sam</item><!-- герб Самары -->
+        <item>@drawable/mytischi</item><!-- герб Мытищей -->
+        <item>@drawable/povarovo</item><!-- герб Поварово -->
+        <item>@drawable/hirov</item><!-- герб Кирова -->
+        <item>@drawable/rost</item><!-- герб Ростова -->
+        <item>@drawable/hostr</item><!-- герб Ростова -->
+        <item>@drawable/tula</item><!-- герб Ростова -->
+        <item>@drawable/nmsk</item><!-- герб Ростова -->
+
+    </integer-array>
+</resources>
